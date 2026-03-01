@@ -1,32 +1,28 @@
-Deskripsi
+# Sistem Manajemen Sepatu
 
-Sistem Manajemen Sepatu adalah halaman web sederhana untuk menampilkan dan mengelola data produk sepatu. Halaman ini menampilkan ringkasan jumlah produk, daftar sepatu yang tersedia, serta form untuk menambahkan data sepatu baru.
+## Deskripsi
 
-Proyek ini dibuat menggunakan HTML, CSS, dan Bootstrap.
+Aplikasi web untuk menampilkan dan mengelola data produk sepatu dengan dashboard, daftar produk, fitur belanja, dark mode, dan wishlist.
 
-Fitur Utama
+## Fitur Utama
 
-1. Tampilan navbar dan hero section
-2. Dashboard ringkasan (Total Produk, Stok, Kategori)
-3. Daftar produk sepatu lengkap dengan gambar, harga, dan stok
-4. Form input untuk menambahkan data sepatu
-5. Desain responsif menggunakan Bootstrap
+1. Dashboard ringkasan (Total Produk, Stok, Kategori)
+2. Daftar sepatu dengan gambar, harga, dan stok
+3. Fitur beli dengan pengurangan stok otomatis
+4. Dark mode dengan penyimpanan preferensi
+5. Wishlist dengan counter di navbar
+6. Navbar responsif dengan CIBADUYUT SHOES brand
 
-Teknologi yang Digunakan
+## Struktur Folder
 
-1. HTML5
-2. CSS3
-3. Bootstrap 5.3
-4. Assets gambar lokal
-
-Struktur Folder
-project-folder/
-│
+modul_praktikum/
 ├── index.html
+├── script.js
+├── README.md
 ├── css/
 │   └── style.css
-├── assets/
-│   ├── background.jpg
-│   ├── NIKE_P_6000.jpg
-│   ├── AIR_FORCE_1.jpg
-│   └── AIR_JORDAN_1_LOW.jpg
+└── assets/
+    ├── background.jpg
+    ├── NIKE_P_6000.jpg
+    ├── AIR_FORCE_1.jpg
+    └── AIR_JORDAN_1_LOW.jpg
